@@ -19,6 +19,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-s-associe-a-simone-zanoni.html</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-6000-restaurants-10000-livreurs-200-villes.html</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -133,6 +139,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/tag/plus.html</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/tag/livraison.html</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,12 +164,6 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/data.html</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://fr.deliveroo.news/tag/plus.html</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
