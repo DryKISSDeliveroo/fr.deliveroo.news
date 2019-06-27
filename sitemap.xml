@@ -145,6 +145,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/parc-nettoyer-deliveroo.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-retire-600-plats-contenant-ailerons-requin-no-shark-fin-wwf.html</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +176,30 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/about/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/bons-d-achat.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/parc.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/apero.html</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/nettoyer.html</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
