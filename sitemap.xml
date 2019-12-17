@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-tendances-bonnes-adresses-soiree-de-noel.html</loc>
+    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-lance-marketplace.html</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,6 +265,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/tag/noel.html</loc>
+    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/deliveroo-for-business.html</loc>
+    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/tag/dialogue-social.html</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -272,12 +290,6 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/livreurs.html</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://fr.deliveroo.news/tag/noel.html</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -427,12 +439,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://fr.deliveroo.news/tag/deliveroo-for-business.html</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://fr.deliveroo.news/tag/hotels.html</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -554,6 +560,12 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/archive/2019/page/2.html</loc>
+    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/archive/2019/page/3.html</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
