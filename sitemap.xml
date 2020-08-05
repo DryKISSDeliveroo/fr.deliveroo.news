@@ -85,6 +85,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-fete-des-meres-petit-dejeuner.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-lance-courbevoie-food-market.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,6 +116,12 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-monop-partenariat-30minutes.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-dons-personnel-hospitalier.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -332,6 +344,36 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/fete-des-meres.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/petit-dejeuner.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/dons.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/personnel-hospitalier.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/repas-gratuits.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -871,6 +913,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/page/6.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -890,6 +938,12 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/deliveroo/page/5.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/deliveroo/page/6.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
