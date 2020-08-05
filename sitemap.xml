@@ -145,6 +145,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-street-food-mina-soundiram.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-etend-activite-asie-pacifique-installe-taiwan.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,6 +301,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/street-food.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/bonnes-adresses.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/mina-soundiram.html</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/tag/deliveroo-editions.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,12 +350,6 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/traiteur.html</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://fr.deliveroo.news/tag/deliveroo.html</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
