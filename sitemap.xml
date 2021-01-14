@@ -235,6 +235,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-top-100-plats-populaires.html</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-emoji-gateaux-exclusives.html</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -524,6 +530,24 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/proximite.html</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/deliveroo-100.html</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/top-100.html</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/plats.html</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1274,6 +1298,12 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/deliveroo/page/4.html</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/deliveroo/page/5.html</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
