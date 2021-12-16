@@ -475,6 +475,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-barepack-monbento.html</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-work-dfw.html</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -577,6 +583,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/tag/barepack.html</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/monbento.html</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/reutilisable.html</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/tag/restaurants.html</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -661,19 +685,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://fr.deliveroo.news/tag/barepack.html</loc>
-    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://fr.deliveroo.news/tag/zero-dechet.html</loc>
-    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://fr.deliveroo.news/tag/reutilisable.html</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1645,6 +1657,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/page/10.html</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/deliveroo/page/2.html</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1688,6 +1706,12 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/deliveroo/page/9.html</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/deliveroo/page/10.html</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
