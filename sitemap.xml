@@ -163,6 +163,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-nouvel-an-chinois-fortune-cookies.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-monop-partenariat-30minutes.html</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -493,6 +499,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://fr.deliveroo.news/news/deliveroo-st-valentin-dessert-bague-or-diamant-9-carats.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://fr.deliveroo.news/news/deliveroo-barepack-monbento.html</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -800,6 +812,36 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/tag/solution.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/st-valentin.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/bague.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/diamant.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/nouvel-an-chinois.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/tag/fortune-cookies.html</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1646,6 +1688,12 @@
   </url>
   <url>
     <loc>https://fr.deliveroo.news/archive/2021/page/2.html</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://fr.deliveroo.news/archive/2021/page/3.html</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
